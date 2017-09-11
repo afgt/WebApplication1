@@ -36,6 +36,7 @@ namespace WebApplication1.Controllers
             return View(entidade);
         }
 
+        //test de github
         // GET: Entidades/Create
         public ActionResult Create()
         {
